@@ -1,4 +1,4 @@
-# GearSContactMgr 1.0v
+# GearSContactMgr 1.0v 사용 방법
 for Samsung Galaxy Gear S [Tizen]
 
 준비물 : Python 2.7, 루팅된 갤럭시 기어 S, USB 데이터 케이블
