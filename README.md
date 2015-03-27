@@ -1,3 +1,3 @@
 # GearSContactMgr for Samsung Galaxy Gear S [Tizen]
-- Python 1.1v
-- Windows 1.0v
+- manager for python 1.1v
+- manager for windows 1.0v
